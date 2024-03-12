@@ -1,0 +1,453 @@
+[
+    {
+        "id": 17,
+        "brand": "Nike",
+        "title": "Air Zoom Pegasus 38 Road Running Shoes - Women's",
+        "shortDesc": "Responsive and versatile for everyday runs.",
+        "desc": "The Nike Air Zoom Pegasus 38 road running shoes for women offer responsive cushioning and versatility for everyday runs. Featuring a breathable engineered mesh upper with Flywire technology, these shoes provide a secure and adaptive fit. The Zoom Air units in the forefoot and heel provide responsive cushioning, while the Cushlon foam midsole offers soft and supportive comfort. The durable rubber outsole with waffle pattern delivers traction on various surfaces. These road running shoes are ideal for women seeking responsive and versatile footwear for their daily runs.",
+        "weight": "283g (per shoe)",
+        "material": "Engineered mesh upper with Flywire technology, Cushlon foam midsole, Rubber outsole",
+        "warranty": "1 year",
+        "price": "$119.99",
+        "sizeOptions": [
+            "5",
+            "5.5",
+            "6",
+            "6.5",
+            "7",
+            "7.5",
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10"
+        ],
+        "colors": [
+            {
+                "imageUrl": "https://github.com/sauravchaulagain/resources/blob/resources/5-removebg-preview.png?raw=true",
+                "colorCode": "73A7D9"
+            },
+            {
+                "imageUrl": "https://github.com/sauravchaulagain/resources/blob/resources/55-removebg-preview.png?raw=true",
+                "colorCode": "67714E"
+            },
+            {
+                "imageUrl": "https://github.com/sauravchaulagain/resources/blob/resources/555-removebg-preview.png?raw=true",
+                "colorCode": "611C34"
+            }
+        ],
+        "gender": "Women's",
+        "width": "Standard",
+        "soleMaterial": "Rubber",
+        "closureType": "Lace-up",
+        "insole": "Cushlon foam",
+        "liningMaterial": "Mesh lining",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "Zoom Air",
+            "Flywire"
+        ],
+        "suitableTerrain": [
+            "Road",
+            "Track"
+        ],
+        "activityType": "Running",
+        "archType": "Neutral",
+        "weightPerPair": "566g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Road Running",
+            "Track Running",
+            "Indoor Activities"
+        ],
+        "additionalFeatures": [
+            "Breathable engineered mesh upper",
+            "Responsive Zoom Air cushioning"
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "The North Face",
+        "title": "Ultra Fastpack IV Futurelight Hiking Shoes - Women's",
+        "shortDesc": "Lightweight and breathable for fast-paced hikes.",
+        "desc": "The North Face Ultra Fastpack IV Futurelight hiking shoes for women are designed for fast-paced hikes and trail runs. Constructed with Futurelight™ technology, the breathable and waterproof membrane keeps your feet dry and comfortable in various conditions. The Ultra Fastpack IV features a lightweight and responsive FastFoam™ midsole for cushioning and energy return, while the Vibram® Megagrip outsole provides durable traction on both wet and dry surfaces. These hiking shoes are ideal for women seeking lightweight and breathable footwear for fast-paced outdoor activities.",
+        "weight": "280g (per shoe)",
+        "material": "Futurelight™ upper, FastFoam™ midsole, Vibram® Megagrip outsole",
+        "warranty": "1 year",
+        "price": "$159.99",
+        "sizeOptions": [
+            "5",
+            "5.5",
+            "6",
+            "6.5",
+            "7",
+            "7.5",
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Women's",
+        "width": "Standard",
+        "soleMaterial": "Vibram® Megagrip rubber",
+        "closureType": "Lace-up",
+        "insole": "FastFoam™ midsole",
+        "liningMaterial": "Futurelight™ membrane lining",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "Futurelight™",
+            "FastFoam™",
+            "Vibram® Megagrip"
+        ],
+        "suitableTerrain": [
+            "Trail",
+            "Hiking",
+            "Trail Running"
+        ],
+        "activityType": "Outdoor",
+        "archType": "Neutral",
+        "weightPerPair": "560g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [
+            "Futurelight™",
+            "Vibram® Megagrip"
+        ],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Fast-paced Hiking",
+            "Trail Running",
+            "Outdoor Activities"
+        ],
+        "additionalFeatures": [
+            "Futurelight™ waterproof membrane",
+            "FastFoam™ midsole for cushioning"
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Columbia",
+        "title": "Peakfreak X2 Outdry Hiking Shoes - Men's",
+        "shortDesc": "Durable and versatile for all-day comfort on the trails.",
+        "desc": "The Columbia Peakfreak X2 Outdry hiking shoes for men are built for durability and versatility on the trails. Featuring an Outdry™ waterproof and breathable membrane, these shoes keep your feet dry and comfortable in wet conditions. The Techlite™ midsole provides lightweight cushioning and support, while the Omni-Grip™ outsole delivers excellent traction on various terrains. The combination of suede, leather, and mesh upper offers durability and breathability. These hiking shoes are ideal for men who seek durable and versatile footwear for all-day comfort on the trails.",
+        "weight": "380g (per shoe)",
+        "material": "Suede, leather, and mesh upper, Techlite™ midsole, Omni-Grip™ outsole",
+        "warranty": "1 year",
+        "price": "$109.99",
+        "sizeOptions": [
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10",
+            "10.5",
+            "11",
+            "11.5",
+            "12",
+            "12.5",
+            "13"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Men's",
+        "width": "Standard",
+        "soleMaterial": "Omni-Grip™ rubber",
+        "closureType": "Lace-up",
+        "insole": "Techlite™ midsole",
+        "liningMaterial": "Outdry™ waterproof membrane lining",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "Outdry™",
+            "Techlite™",
+            "Omni-Grip™"
+        ],
+        "suitableTerrain": [
+            "Trail",
+            "Hiking"
+        ],
+        "activityType": "Outdoor",
+        "archType": "Neutral",
+        "weightPerPair": "760g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Hiking",
+            "Outdoor Activities"
+        ],
+        "additionalFeatures": [
+            "Outdry™ waterproof membrane",
+            "Techlite™ midsole for cushioning"
+        ]
+    },
+    {
+        "id": 16,
+        "brand": "Adidas",
+        "title": "Terrex Swift R3 Gore-Tex Hiking Shoes - Men's",
+        "shortDesc": "Waterproof and agile for fast-paced hikes.",
+        "desc": "The Adidas Terrex Swift R3 Gore-Tex hiking shoes for men are designed to provide waterproof protection and agility for fast-paced hikes. Featuring a breathable mesh upper with abrasion-resistant overlays, these shoes offer durability and support on the trails. The Gore-Tex membrane provides waterproof and breathable protection, while the Continental™ Rubber outsole offers reliable traction on wet and dry surfaces. The Lightstrike cushioning provides responsive comfort, making these shoes ideal for men seeking waterproof and agile footwear for their outdoor adventures.",
+        "weight": "360g (per shoe)",
+        "material": "Mesh upper with abrasion-resistant overlays, Gore-Tex membrane, Continental™ Rubber outsole",
+        "warranty": "1 year",
+        "price": "$149.99",
+        "sizeOptions": [
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10",
+            "10.5",
+            "11",
+            "11.5",
+            "12",
+            "12.5",
+            "13"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Men's",
+        "width": "Standard",
+        "soleMaterial": "Continental™ Rubber",
+        "closureType": "Lace-up",
+        "insole": "Lightstrike cushioning",
+        "liningMaterial": "Gore-Tex membrane",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "Gore-Tex",
+            "Continental™ Rubber",
+            "Lightstrike"
+        ],
+        "suitableTerrain": [
+            "Trail",
+            "Hiking"
+        ],
+        "activityType": "Outdoor",
+        "archType": "Neutral",
+        "weightPerPair": "720g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [
+            "Gore-Tex"
+        ],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Hiking",
+            "Outdoor Activities"
+        ],
+        "additionalFeatures": [
+            "Breathable mesh upper with overlays",
+            "Waterproof Gore-Tex membrane"
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Keen",
+        "title": "Targhee III Waterproof Mid Hiking Boots - Women's",
+        "shortDesc": "Sturdy and waterproof for rugged trails.",
+        "desc": "The Keen Targhee III Waterproof Mid hiking boots for women are designed to tackle rugged trails with confidence. Featuring a waterproof leather and performance mesh upper, these boots keep your feet dry and protected from the elements. The KEEN.DRY waterproof membrane provides breathable waterproofing, while the EVA midsole offers cushioned support and comfort. The multidirectional lug pattern on the outsole provides excellent traction on various surfaces, making these boots ideal for women who enjoy hiking in challenging terrain.",
+        "weight": "500g (per boot)",
+        "material": "Leather and performance mesh upper, EVA midsole, Rubber outsole",
+        "warranty": "2 years",
+        "price": "$139.95",
+        "sizeOptions": [
+            "5",
+            "5.5",
+            "6",
+            "6.5",
+            "7",
+            "7.5",
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Women's",
+        "width": "Standard",
+        "soleMaterial": "Rubber",
+        "closureType": "Lace-up",
+        "insole": "EVA",
+        "liningMaterial": "KEEN.DRY waterproof membrane",
+        "toeStyle": "Round toe",
+        "heelHeight": "1.5 inches",
+        "technologyFeatures": [
+            "KEEN.DRY waterproof membrane"
+        ],
+        "suitableTerrain": [
+            "Rugged Trails",
+            "Hiking",
+            "Backpacking"
+        ],
+        "activityType": "Outdoor",
+        "archType": "Neutral",
+        "weightPerPair": "1000g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [
+            "KEEN.DRY"
+        ],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Hiking",
+            "Backpacking",
+            "Outdoor Activities"
+        ],
+        "additionalFeatures": [
+            "Waterproof leather and mesh upper",
+            "EVA midsole for cushioning"
+        ]
+    },
+    {
+        "id": 8,
+        "brand": "Brooks",
+        "title": "Ghost 14 Road Running Shoes - Men's",
+        "shortDesc": "Smooth and responsive for long-distance runs.",
+        "desc": "The Brooks Ghost 14 road running shoes for men provide a smooth and responsive ride for long-distance runs. Featuring a breathable mesh upper with 3D Fit Print technology, these shoes offer a secure and adaptive fit. The DNA LOFT cushioning provides plush comfort and energy return, while the Segmented Crash Pad ensures smooth heel-to-toe transitions. The durable rubber outsole with Omega Flex Grooves offers flexibility and traction on the road. These road running shoes are ideal for men seeking comfort and performance during their long-distance runs.",
+        "weight": "305g (per shoe)",
+        "material": "Mesh upper with 3D Fit Print technology, DNA LOFT cushioning, Rubber outsole",
+        "warranty": "1 year",
+        "price": "$129.99",
+        "sizeOptions": [
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10",
+            "10.5",
+            "11",
+            "11.5",
+            "12",
+            "12.5",
+            "13"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Men's",
+        "width": "Standard",
+        "soleMaterial": "Rubber",
+        "closureType": "Lace-up",
+        "insole": "DNA LOFT cushioning",
+        "liningMaterial": "Mesh lining",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "DNA LOFT cushioning",
+            "3D Fit Print technology"
+        ],
+        "suitableTerrain": [
+            "Road",
+            "Track"
+        ],
+        "activityType": "Running",
+        "archType": "Neutral",
+        "weightPerPair": "610g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Road Running",
+            "Track Running",
+            "Indoor Activities"
+        ],
+        "additionalFeatures": [
+            "Breathable mesh upper",
+            "DNA LOFT cushioning for plush comfort"
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Under Armour",
+        "title": "Charged Bandit 6 Running Shoes - Women's",
+        "shortDesc": "Lightweight and responsive for everyday runs.",
+        "desc": "The Under Armour Charged Bandit 6 running shoes for women offer a lightweight and responsive ride for everyday runs. Featuring a breathable mesh upper with UA SpeedForm construction, these shoes provide a snug and comfortable fit. The Charged Cushioning® midsole absorbs impact and converts it into a responsive burst of energy, while the solid rubber outsole delivers durability and traction. These running shoes are ideal for women seeking a lightweight and responsive option for their daily runs.",
+        "weight": "250g (per shoe)",
+        "material": "Mesh upper with UA SpeedForm construction, Charged Cushioning® midsole, Rubber outsole",
+        "warranty": "1 year",
+        "price": "$89.99",
+        "sizeOptions": [
+            "5",
+            "5.5",
+            "6",
+            "6.5",
+            "7",
+            "7.5",
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10"
+        ],
+        "colors": [
+            {
+                "imageUrl": "",
+                "colorCode": ""
+            }
+        ],
+        "gender": "Women's",
+        "width": "Standard",
+        "soleMaterial": "Rubber",
+        "closureType": "Lace-up",
+        "insole": "Charged Cushioning® midsole",
+        "liningMaterial": "Mesh lining",
+        "toeStyle": "Round toe",
+        "heelHeight": "1 inch",
+        "technologyFeatures": [
+            "UA SpeedForm construction",
+            "Charged Cushioning®"
+        ],
+        "suitableTerrain": [
+            "Road",
+            "Track"
+        ],
+        "activityType": "Running",
+        "archType": "Neutral",
+        "weightPerPair": "500g",
+        "countryOfManufacture": "Vietnam",
+        "careInstructions": "Spot clean with mild detergent, air dry",
+        "certifications": [],
+        "packaging": "Recyclable cardboard box",
+        "recommendedUse": [
+            "Road Running",
+            "Track Running",
+            "Indoor Activities"
+        ],
+        "additionalFeatures": [
+            "Breathable mesh upper",
+            "Charged Cushioning® for responsive energy return"
+        ]
+    }
+]
